@@ -1,0 +1,2 @@
+O curso de Engenharia da Computação no IFSP (Instituto Federal de Ciências e Tecnologia), propôs para nós (alunos) que fizessemos um projeto chamado IFSP-Connect, onde nele criaríamos um site que ao longo do semestre será atualizado conforme os nossos conhecimentos sobre HTML, CSS, JavaScript.
+Meu nome é Maria Eduarda e esse vai ser a minha evolução! Espero que minha evolução não seja apenas no aprendizado das linguagens mas sim na vida.
